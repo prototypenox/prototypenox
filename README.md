@@ -1,5 +1,11 @@
 Hi👋🏾, I'm @Prototype_Nox! I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 
+const prototype_nox={
+pronouns:"he"|"him",
+code: [HTML5, CSS, JS, C, PYTHON, SQL]
+frameworks: [JQuery, Bootstrap],
+}
+
 You can find me in:
 -[Blog](https://www.wordpress.com)
 -[Facebook](https://www.facebook.com)

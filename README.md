@@ -1,3 +1,13 @@
+Hi👋🏾, I'm @Prototype_Nox! I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
+
+You can find me in:
+-[Blog]:(https://www.wordpress.com)
+-[Facebook]:(https://www.facebook.com)
+-[Twitter]:(https://www.wordpress.com)
+-[Instagram]:(https://www.instagram.com)
+-[Youtube]:(https://www.youtube.com)
+-[Spotify]:(https://www.spotify.com)
+
 ### Hi there 👋
 
 <!--

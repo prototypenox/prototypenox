@@ -6,8 +6,8 @@ code: [HTML5, CSS, JS, C, PYTHON, SQL]
 frameworks: [JQuery, Bootstrap],
 }
 
-You can find me in:
--[Blog](https://www.wordpress.com)
+## You can find me in:
+_[Blog](https://www.wordpress.com)
 -[Facebook](https://www.facebook.com)
 -[Twitter](https://www.wordpress.com)
 -[Instagram](https://www.instagram.com)

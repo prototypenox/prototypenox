@@ -7,12 +7,12 @@ frameworks: [JQuery, Bootstrap],
 }
 
 ## You can find me in:
-—[Blog](https://www.wordpress.com)
--[Facebook](https://www.facebook.com)
--[Twitter](https://www.wordpress.com)
--[Instagram](https://www.instagram.com)
--[Youtube](https://www.youtube.com)
--[Spotify](https://www.spotify.com)
+- [Blog](https://www.wordpress.com)
+- [Facebook](https://www.facebook.com)
+- [Twitter](https://www.wordpress.com)
+- [Instagram](https://www.instagram.com)
+- [Youtube](https://www.youtube.com)
+- [Spotify](https://www.spotify.com)
 
 ### Hi there 👋
 

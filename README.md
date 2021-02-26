@@ -43,11 +43,11 @@ frameworks: [JQuery, Bootstrap],
 }
 
 ## You can find me in:
-- [Blog](https://www.wordpress.com)
-- [Facebook](https://www.facebook.com)
-- [Twitter](https://www.wordpress.com)
-- [Instagram](https://www.instagram.com)
-- [Youtube](https://www.youtube.com)
+- [Blog](https://tecnocropolis.wordpress.com/)
+- [Facebook](https://www.facebook.com/Prototype_Nox-115370960267948/)
+- [Twitter](https://www.twitter.com/prototype_nox/)
+- [Instagram](https://www.instagram.com/prototype_nox/)
+- [Youtube](https://www.youtube.com/channel/UCvhACq-PAfk84tQXYdE507Qm)
 - [Spotify](https://www.spotify.com)
 
 ### Hi there 👋
